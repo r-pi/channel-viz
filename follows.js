@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= '', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'pSOUFpJxkRwTB750tMMzf6DDF9tdg93orlPA1dzhF0QInDLS', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [101758294], // Comma separated array of Xively Feed ID numbers
 		applicationName	= '', // Replaces Xively logo in the header
 		dataDuration	= '7days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
