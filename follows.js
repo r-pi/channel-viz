@@ -15,7 +15,7 @@
 	var defaultKey		= 'pSOUFpJxkRwTB750tMMzf6DDF9tdg93orlPA1dzhF0QInDLS', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [101758294], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Poraiti Pi Dashboard', // Replaces Xively logo in the header
-		dataDuration	= '7days', // 7days Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
+		dataDuration	= '1week', // 7days Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 1800, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
 		hideForm		= 1; // To hide input form use value of 1, otherwise set to 0
